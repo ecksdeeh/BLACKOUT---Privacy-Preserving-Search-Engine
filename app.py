@@ -220,7 +220,7 @@ def root():
 def private_search(
     query: str = Query(..., description="User's actual search query"),
     num_decoys: int = Query(5, ge=3, le=10, description="Number of decoy queries"),
-    num_results: int = Query(10, ge=5, le=20, description="Number of search results to return")
+    num_results: int = Query(5, ge=5, le=20, description="Number of search results to return")
 ):
     """
     Perform privacy-preserving search with decoy queries
