@@ -370,5 +370,5 @@ This project implements privacy-preserving techniques inspired by academic resea
 **Project Status**: Active Development  
 **Version**: 1.0.0  
 **Last Updated**: November 2025  
-**Maintainer**: [Your Name/Organization]  
-**Contact**: [your.email@example.com]
+**Maintainers**: [Adonnis Price, Amir Walker, Tyree Robinson, Fortune Uwaoma]  
+**Contact**: [adpri4@morgan.edu, fouwa1@morgan.edu, tyrob14@morgan.edu, amwal17@morgan.edu]
