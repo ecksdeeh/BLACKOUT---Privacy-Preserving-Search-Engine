@@ -343,13 +343,11 @@ Contributions are welcome! Please follow these guidelines:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 12. License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 13. Acknowledgments
 
-This project implements privacy-preserving techniques inspired by academic research in query obfuscation and anonymous communications. Special thanks to the TOR Project and the privacy research community.
+This project implements privacy-preserving techniques inspired by academic research in query obfuscation and anonymous communications. Special thanks to the TOR Project and the privacy research community, as well as all of the people who researched all of these important privacy-related topics.
 
 ## References
 
@@ -368,7 +366,7 @@ This project implements privacy-preserving techniques inspired by academic resea
 ---
 
 **Project Status**: Active Development  
-**Version**: 1.0.0  
-**Last Updated**: November 2025  
+**Version**: 0.99.0(FINAL BETA)  
+**Last Updated**: December 2025  
 **Maintainers**: [Adonnis Price, Amir Walker, Tyree Robinson, Fortune Uwaoma]  
 **Contact**: [adpri4@morgan.edu, fouwa1@morgan.edu, tyrob14@morgan.edu, amwal17@morgan.edu]
