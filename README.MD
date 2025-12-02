@@ -361,7 +361,6 @@ This project implements privacy-preserving techniques inspired by academic resea
 
 [5] R. Dingledine, N. Mathewson, and P. Syverson. 2004. Tor: The second-generation onion router. In *Proceedings of the 13th USENIX Security Symposium*. USENIX Association, Berkeley, CA, USA, 303–320. https://www.usenix.org/legacy/publications/library/proceedings/sec04/tech/full_papers/dingledine/dingledine.pdf
 
-[6] Krishnamurthy, B., and C. E. Wills. 2008. Characterizing privacy in online social networks. In Proceedings of the First Workshop on Online Social Networks (WOSN ’08), 37–42. ACM, New York, NY, USA.
 
 ---
 
