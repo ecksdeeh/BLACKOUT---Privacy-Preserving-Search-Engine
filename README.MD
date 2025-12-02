@@ -345,7 +345,7 @@ Contributions are welcome! Please follow these guidelines:
 
 
 
-## 13. Acknowledgments
+## 12. Acknowledgments
 
 This project implements privacy-preserving techniques inspired by academic research in query obfuscation and anonymous communications. Special thanks to the TOR Project and the privacy research community, as well as all of the people who researched all of these important privacy-related topics.
 
