@@ -92,7 +92,7 @@ To obtain a SerpAPI key:
 #### Option 1: TOR Browser (Easiest)
 
 1. Download TOR Browser from https://www.torproject.org/
-2. Launch TOR Browser
+2. Launch TOR Browser(You only need this browser open, you can use any browser for the html page.)
 3. TOR proxy will automatically run on `127.0.0.1:9050`
 
 #### Option 2: Standalone TOR Service
