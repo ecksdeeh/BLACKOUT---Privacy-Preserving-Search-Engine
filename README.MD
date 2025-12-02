@@ -359,9 +359,9 @@ This project implements privacy-preserving techniques inspired by academic resea
 
 [4] C. Dwork and A. Roth. 2014. The algorithmic foundations of differential privacy. *Foundations and Trends in Theoretical Computer Science* 9, 3-4 (2014), 211–407. https://doi.org/10.1561/0400000042
 
-[5] R. Dingledine, N. Mathewson, and P. Syverson. 2004. Tor: The second-generation onion router. In *Proceedings of the 13th USENIX Security Symposium*. USENIX Association, Berkeley, CA, USA, 303–320.
+[5] R. Dingledine, N. Mathewson, and P. Syverson. 2004. Tor: The second-generation onion router. In *Proceedings of the 13th USENIX Security Symposium*. USENIX Association, Berkeley, CA, USA, 303–320. https://www.usenix.org/legacy/publications/library/proceedings/sec04/tech/full_papers/dingledine/dingledine.pdf
 
-[6] A. Mukherjee, J. Liu, L. H. Wang, A. Datta, and E. Wang. 2016. Characterizing privacy in online social networks. In *Proceedings of the 2016 ACM Workshop on Privacy in the Electronic Society* (WPES '16). Association for Computing Machinery, New York, NY, USA, 3–12.
+[6] A. Mukherjee, J. Liu, L. H. Wang, A. Datta, and E. Wang. 2016. Characterizing privacy in online social networks. In *Proceedings of the 2016 ACM Workshop on Privacy in the Electronic Society* (WPES '16). Association for Computing Machinery, New York, NY, USA, 3–12. 
 
 ---
 
