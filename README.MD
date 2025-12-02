@@ -355,7 +355,7 @@ This project implements privacy-preserving techniques inspired by academic resea
 
 [2] D. Rebollo-Monedero, J. Forné, A. Solanas, and T. Martínez-Ballesté. 2010. Private location-based information retrieval through user collaboration. *Computer Communications* 33, 6 (2010), 762–774. https://doi.org/10.1016/j.comcom.2009.11.024
 
-[3] X. Luo, P. Zhou, E. W. Chan, W. Lee, R. K. Chang, and R. Perdisci. 2011. HTTPOS: Sealing information leaks with browser-side obfuscation of encrypted flows. In *Proceedings of the 18th Annual Network and Distributed System Security Symposium* (NDSS '11). Internet Society, San Diego, CA, USA.
+[3] X. Luo, P. Zhou, E. W. Chan, W. Lee, R. K. Chang, and R. Perdisci. 2011. HTTPOS: Sealing information leaks with browser-side obfuscation of encrypted flows. In *Proceedings of the 18th Annual Network and Distributed System Security Symposium* (NDSS '11). Internet Society, San Diego, CA, USA. https://www.ndss-symposium.org/wp-content/uploads/2017/09/luo.pdf
 
 [4] C. Dwork and A. Roth. 2014. The algorithmic foundations of differential privacy. *Foundations and Trends in Theoretical Computer Science* 9, 3-4 (2014), 211–407. https://doi.org/10.1561/0400000042
 
