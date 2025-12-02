@@ -171,7 +171,7 @@ python -m http.server 8080
 ### 4.3 Using the Application
 
 1. Enter a search query in the search box
-2. Select desired number of results (5, 10, 15, or 20)
+2. Select desired number of results (5, 10, 15, or 20)(Certain queries will retrieve less than 5 results, due to SERPAPI Limitations)
 3. Click the search button or press Enter
 4. Observe the Privacy Shield showing:
    - All decoy queries being sent
