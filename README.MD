@@ -47,7 +47,7 @@ The web interface provides:
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/blackout-search.git
+git clone https://github.com/ecksdeeh/BLACKOUT---Privacy-Preserving-Search-Engine.git
 cd blackout-search
 ```
 
