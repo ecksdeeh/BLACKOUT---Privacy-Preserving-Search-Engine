@@ -41,6 +41,7 @@ The web interface provides:
 - Node.js and npm (optional, for development)
 - TOR Browser or standalone TOR service
 - SerpAPI account with API key
+-GIT installed on your system(if running through terminal/powershell)
 
 ### 3.2 Environment Setup
 
