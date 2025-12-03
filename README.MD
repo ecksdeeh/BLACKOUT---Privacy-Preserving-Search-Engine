@@ -65,7 +65,7 @@ uvicorn==0.24.0
 python-dotenv==1.0.0
 google-search-results==2.4.2
 nltk==3.8.1
-requests[socks]==2.31.0
+requests[socks]==2.32.2
 ```
 
 #### Step 3: Download NLTK Data
