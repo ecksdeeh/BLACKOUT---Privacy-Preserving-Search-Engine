@@ -351,23 +351,16 @@ This project implements privacy-preserving techniques inspired by academic resea
 
 ## 13. References
 
-[1] A. Wills and M. Tatar. 2012. An analysis of search engine privacy. In *Proceedings of the 2012 ACM Conference on Computer and Communications Security* (CCS '12). Association for Computing Machinery, New York, NY, USA, 895–907. https://doi.org/10.1145/2382196.2382289
+[1] A. Wills and M. Tatar. 2012. An analysis of search engine privacy. In *Proceedings of the 2012 ACM Conference on Computer and Communications Security* (CCS '12). Association for Computing Machinery, New York, NY, USA, pp. 895–907. https://doi.org/10.1145/2382196.2382289
 
-[2] D. Rebollo-Monedero, J. Forné, A. Solanas, and T. Martínez-Ballesté. 2010. Private location-based information retrieval through user collaboration. *Computer Communications* 33, 6 (2010), 762–774. https://doi.org/10.1016/j.comcom.2009.11.024
+[2] D. Rebollo-Monedero, J. Forné, A. Solanas, and T. Martínez-Ballesté. 2010. Private location-based information retrieval through user collaboration. *Computer Communications* 33, 6 (2010), pp. 762–774. https://doi.org/10.1016/j.comcom.2009.11.024
 
 [3] X. Luo, P. Zhou, E. W. Chan, W. Lee, R. K. Chang, and R. Perdisci. 2011. HTTPOS: Sealing information leaks with browser-side obfuscation of encrypted flows. In *Proceedings of the 18th Annual Network and Distributed System Security Symposium* (NDSS '11). Internet Society, San Diego, CA, USA. https://www.ndss-symposium.org/wp-content/uploads/2017/09/luo.pdf
 
-[4] C. Dwork and A. Roth. 2014. The algorithmic foundations of differential privacy. *Foundations and Trends in Theoretical Computer Science* 9, 3-4 (2014), 211–407. https://doi.org/10.1561/0400000042
+[4] C. Dwork and A. Roth. 2014. The algorithmic foundations of differential privacy. *Foundations and Trends in Theoretical Computer Science* 9, 3-4 (2014), pp. 211–407. https://doi.org/10.1561/0400000042
 
-[5] R. Dingledine, N. Mathewson, and P. Syverson. 2004. Tor: The second-generation onion router. In *Proceedings of the 13th USENIX Security Symposium*. USENIX Association, Berkeley, CA, USA, 303–320. https://www.usenix.org/legacy/publications/library/proceedings/sec04/tech/full_papers/dingledine/dingledine.pdf
+[5] R. Dingledine, N. Mathewson, and P. Syverson. 2004. Tor: The second-generation onion router. In *Proceedings of the 13th USENIX Security Symposium*. USENIX Association, Berkeley, CA, USA, pp. 303–320. https://www.usenix.org/legacy/publications/library/proceedings/sec04/tech/full_papers/dingledine/dingledine.pdf
 
-
-
-## 14. Related Work
-
-[6] H. Nissenbaum and J. Howe. 2009. TrackMeNot: Reclaiming Search Privacy in the Age of Personalized Search. In Proceedings of the 2009 International Conference on Social Computing (SocialCom ’09). IEEE, New York, NY, USA, 588–593. https://doi.org/10.1109/SocialCom.2009.33
-
-[7] J. L. Domingo-Ferrer, A. Solanas, and J. Castellà-Roca. 2009. Hiding Information for Privacy Protection: A Survey. Computer Communications 32, 12 (2009), 1631–1647. https://doi.org/10.1016/j.comcom.2009.05.002
 ---
 
 **Project Status**: Active Development  
