@@ -9,7 +9,7 @@ BlackOut Search is a privacy-preserving search engine implementation that employ
 Modern search engines collect extensive user data through search queries, enabling detailed user profiling and behavioral tracking [1]. BlackOut Search addresses these privacy concerns by implementing a multi-layered privacy protection system that includes:
 
 - **Decoy Query Generation**: Semantic and contextual fake queries mixed with real searches
-- **TOR Network Routing**: Anonymous network routing to hide user IP addresses
+- **TOR Network Routing[5]**: Anonymous network routing to hide user IP addresses
 - **Timing Obfuscation**: Randomized delays to prevent timing-based correlation attacks
 - **Query Anonymization**: Cryptographic hashing to prevent server-side tracking
 
@@ -362,10 +362,16 @@ This project implements privacy-preserving techniques inspired by academic resea
 [5] R. Dingledine, N. Mathewson, and P. Syverson. 2004. Tor: The second-generation onion router. In *Proceedings of the 13th USENIX Security Symposium*. USENIX Association, Berkeley, CA, USA, 303–320. https://www.usenix.org/legacy/publications/library/proceedings/sec04/tech/full_papers/dingledine/dingledine.pdf
 
 
+
+## 13. Related Work
+
+[6] H. Nissenbaum and J. Howe. 2009. TrackMeNot: Reclaiming Search Privacy in the Age of Personalized Search. In Proceedings of the 2009 International Conference on Social Computing (SocialCom ’09). IEEE, New York, NY, USA, 588–593. https://doi.org/10.1109/SocialCom.2009.33
+
+[7] J. L. Domingo-Ferrer, A. Solanas, and J. Castellà-Roca. 2009. Hiding Information for Privacy Protection: A Survey. Computer Communications 32, 12 (2009), 1631–1647. https://doi.org/10.1016/j.comcom.2009.05.002
 ---
 
 **Project Status**: Active Development  
-**Version**: 0.99.0(FINAL BETA)  
+**Version**: 0.99.0(BETA)  
 **Last Updated**: December 2025  
 **Maintainers**: [Adonnis Price, Amir Walker, Tyree Robinson, Fortune Uwaoma]  
 **Contact**: [adpri4@morgan.edu, fouwa1@morgan.edu, tyrob14@morgan.edu, amwal17@morgan.edu]
