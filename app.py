@@ -29,17 +29,17 @@ app.add_middleware(
 
 SERPAPI_KEY = os.getenv("SERPAPI_KEY")
 
-# ============================
+
 # TOR PROXY SETTINGS
-# ============================
+
 TOR_PROXY = {
     "http": "socks5h://127.0.0.1:9050",
     "https": "socks5h://127.0.0.1:9050"
 }
 
-# ============================
+
 # Rate Limiting & Query Tracking
-# ============================
+
 query_tracker = defaultdict(list)
 MAX_QUERIES_PER_MINUTE = 10
 
@@ -58,9 +58,9 @@ def check_rate_limit(identifier: str) -> bool:
     query_tracker[identifier].append(now)
     return True
 
-# ============================
-# Enhanced Decoy Generator
-# ============================
+
+# Decoy Generator
+
 TRENDING_TOPICS = [
     "weather", "news", "sports scores", "stock market", 
     "movie reviews", "recipes", "how to", "best practices",
@@ -78,7 +78,7 @@ def semantic_decoys(user_query):
     decoys = []
 
     for word in words:
-        if len(word) < 3:  # Skip very short words
+        if len(word) < 3:  
             continue
             
         synonyms = wordnet.synsets(word)
@@ -151,16 +151,16 @@ def generate_decoys(user_query, num_decoys=5):
     
     return random.sample(all_decoys, min(num_decoys, len(all_decoys)))
 
-# ============================
+
 # Query Fingerprint Protection
-# ============================
+
 def anonymize_query(query):
     """Create a hash of the query for logging without storing actual query"""
     return hashlib.sha256(query.encode()).hexdigest()[:16]
 
-# ============================
+
 # Perform Search (via TOR)
-# ============================
+
 def perform_search(query, use_tor=True, num_results=10):
     """
     Perform search with optional TOR routing
@@ -273,9 +273,9 @@ def private_search(
         }
     }
 
-# ============================
+
 # Health Check Endpoint
-# ============================
+
 @app.get("/health")
 def health_check():
     """Check if API and TOR connection are working"""
@@ -285,9 +285,9 @@ def health_check():
         "api_key_set": bool(SERPAPI_KEY)
     }
 
-# ============================
+
 # Run the API
-# ============================
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("app:app", host="127.0.0.1", port=8000, reload=True)
