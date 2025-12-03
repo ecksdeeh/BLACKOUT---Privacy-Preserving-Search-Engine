@@ -349,7 +349,7 @@ Contributions are welcome! Please follow these guidelines:
 
 This project implements privacy-preserving techniques inspired by academic research in query obfuscation and anonymous communications. Special thanks to the TOR Project and the privacy research community, as well as all of the people who researched all of these important privacy-related topics.
 
-## References
+## 13. References
 
 [1] A. Wills and M. Tatar. 2012. An analysis of search engine privacy. In *Proceedings of the 2012 ACM Conference on Computer and Communications Security* (CCS '12). Association for Computing Machinery, New York, NY, USA, 895–907. https://doi.org/10.1145/2382196.2382289
 
@@ -363,7 +363,7 @@ This project implements privacy-preserving techniques inspired by academic resea
 
 
 
-## 13. Related Work
+## 14. Related Work
 
 [6] H. Nissenbaum and J. Howe. 2009. TrackMeNot: Reclaiming Search Privacy in the Age of Personalized Search. In Proceedings of the 2009 International Conference on Social Computing (SocialCom ’09). IEEE, New York, NY, USA, 588–593. https://doi.org/10.1109/SocialCom.2009.33
 
