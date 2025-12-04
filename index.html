@@ -386,7 +386,7 @@
       decoyContainer.innerHTML = '<p style="text-align: center;"><span class="loading"></span> Generating decoy queries...</p>';
 
       try {
-        const response = await fetch(`http://127.0.0.1:8000/search?query=${encodeURIComponent(query)}&num_decoys=5&num_results=${numResults}`);
+        const response = await fetch(`http://localhost:8000/search?query=${encodeURIComponent(query)}&num_decoys=5&num_results=${numResults}`);
         
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
