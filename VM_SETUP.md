@@ -2,7 +2,7 @@
 
 ## What You Need
 - **VirtualBox** - Download from: https://www.virtualbox.org/wiki/Downloads
-- **The OVA file** - `BlackOut-Search.ova` (provided)
+- **The OVA file** - `BlackOut-Search.ova` (https://drive.google.com/file/d/1gpXL6wHWUbMOstbh0jMYVVxQG9UweL4C/view?usp=sharing)
 - **SerpAPI Key** - Free from: https://serpapi.com/ (100 searches/month free)
 
 ---
