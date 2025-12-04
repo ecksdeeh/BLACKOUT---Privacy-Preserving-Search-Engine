@@ -1,4 +1,4 @@
-# BlackOut Search - Quick Start Guide
+# BlackOut Search - Quick Start Guide *STILL IN PROGRESS, MAY NOT WORK*
 
 ## What You Need
 - **VirtualBox** - Download from: https://www.virtualbox.org/wiki/Downloads
